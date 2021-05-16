@@ -1,0 +1,10 @@
+D:\HIghTouch_CodeChallenge\obj\Debug\HIghTouch_CodeChallenge.csprojAssemblyReference.cache
+D:\HIghTouch_CodeChallenge\obj\Debug\HIghTouch_CodeChallenge.frmMain.resources
+D:\HIghTouch_CodeChallenge\obj\Debug\HIghTouch_CodeChallenge.Properties.Resources.resources
+D:\HIghTouch_CodeChallenge\obj\Debug\HIghTouch_CodeChallenge.csproj.GenerateResource.cache
+D:\HIghTouch_CodeChallenge\obj\Debug\HIghTouch_CodeChallenge.csproj.CoreCompileInputs.cache
+D:\HIghTouch_CodeChallenge\bin\Debug\HIghTouch_CodeChallenge.exe.config
+D:\HIghTouch_CodeChallenge\bin\Debug\HIghTouch_CodeChallenge.exe
+D:\HIghTouch_CodeChallenge\bin\Debug\HIghTouch_CodeChallenge.pdb
+D:\HIghTouch_CodeChallenge\obj\Debug\HIghTouch_CodeChallenge.exe
+D:\HIghTouch_CodeChallenge\obj\Debug\HIghTouch_CodeChallenge.pdb
